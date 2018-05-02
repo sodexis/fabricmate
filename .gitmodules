@@ -1,0 +1,4 @@
+[submodule "fabricmate/web"]
+	path = fabricmate/web
+	url = git@github.com:SodexisTeam/web.git
+	branch = 11.0
